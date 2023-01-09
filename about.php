@@ -59,8 +59,12 @@
               About Us
             </h1>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Fugit sunt magni ab ut aut! Corporis voluptas cum earum dolore tenetur!
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+                Assumenda sapiente enim quod praesentium ipsa iusto provident, 
+                aspernatur ea temporibus soluta accusantium fuga, aliquam possimus, 
+                harum esse perferendis facere officiis repellat velit excepturi. 
+                Nam saepe, earum reiciendis eligendi facere non?
+                 Velit, ipsa sed magnam molestiae blanditiis sunt amet dolorum quis sequi.
               </p>
           </div>
             <div class="col-md-6 col-sm-12">
@@ -69,9 +73,12 @@
 
                   <h5 class="card-title text-up mb-4 text-capitalize">Computer Science</h5>
                   <p class="card-text">
-                    We care about our clients and we understand the evolving needs of our customers.
-                     Hence, we work diligently to meet their staffing needs. We send qualified and competent workers
-                     who understand the work ethics of our clients who are responsive to the challenges of the organization.
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+                    Assumenda sapiente enim quod praesentium ipsa iusto provident, 
+                    aspernatur ea temporibus soluta accusantium fuga, aliquam possimus, 
+                    harum esse perferendis facere officiis repellat velit excepturi. 
+                    Nam saepe, earum reiciendis eligendi facere non?
+                    Velit, ipsa sed magnam molestiae blanditiis sunt amet dolorum quis sequi.
                   </p>
               </div>
             </div>
@@ -95,10 +102,12 @@
             <div class="card-body cards  ">
               <h5 class="card-title text-R text-capitalize">Personal sustainability</h5>
               <p class="card-text text-fluid">
-                We understand that to ensure a good “fit” in staffing, is to have a close 
-                relationship with our clients Consistently, we look to know our clients
-                 and their organizations better so when so when a position needs to be 
-                 filled, we supply the best candidate for the job.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+                Assumenda sapiente enim quod praesentium ipsa iusto provident, 
+                aspernatur ea temporibus soluta accusantium fuga, aliquam possimus, 
+                harum esse perferendis facere officiis repellat velit excepturi. 
+                Nam saepe, earum reiciendis eligendi facere non?
+                Velit, ipsa sed magnam molestiae blanditiis sunt amet dolorum quis sequi.
               </p>
           </div>
         </div>
@@ -112,11 +121,12 @@
             <div class="card-body cards  ">
               <h5 class="card-title text-R text-capitalize">Key strength with an area of improvement</h5>
               <p class="card-text text-fluid">
-                We have dedicated Human Resource Consultants whose primary goals 
-                are the enablement of the success of our individual corporate clients.
-                To serve our diverse client base for which, we provide excellent 
-                temporary opportunities while processing permanent position for our
-                 highly trained and very motivated workers.
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+                Assumenda sapiente enim quod praesentium ipsa iusto provident, 
+                aspernatur ea temporibus soluta accusantium fuga, aliquam possimus, 
+                harum esse perferendis facere officiis repellat velit excepturi. 
+                Nam saepe, earum reiciendis eligendi facere non?
+                Velit, ipsa sed magnam molestiae blanditiis sunt amet dolorum quis sequi.
               </p>
           </div>
         </div>
@@ -140,10 +150,12 @@
           <div class="card-body cards">
             <h5 class="card-title text-R text-capitalize">Care and attentiveness</h5>
             <p class="card-text">
-              As providers of temporary and permanent workers to clients,
-               we recognize that our client’s  success depends on finding
-               workers with the right skills and knowledge to fit well into
-                our client’s corporate culture.
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+              Assumenda sapiente enim quod praesentium ipsa iusto provident, 
+              aspernatur ea temporibus soluta accusantium fuga, aliquam possimus, 
+              harum esse perferendis facere officiis repellat velit excepturi. 
+              Nam saepe, earum reiciendis eligendi facere non?
+              Velit, ipsa sed magnam molestiae blanditiis sunt amet dolorum quis sequi.
             </p>
         </div>
       </div>

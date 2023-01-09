@@ -36,7 +36,7 @@ a{
 }
 .navbar ul li a{
     margin: 5px;
-    color: black !important;
+    color: purple !important;
     /* background-color: red; */
     /* font-weight: 600; */
     font-family: 'Dm sans';
@@ -746,10 +746,8 @@ section{
   }
   
   /* Add an active class to highlight the current page */
-  .active {
-    background-color: purple !important;
-    color: white !important;
-    border-radius: 5px;
+  .topnav a.active {
+    color: #3480F1;
   }
   
   /* Hide the link that should open and close the topnav on small screens */
@@ -806,7 +804,7 @@ select{
     border: 5px;
 }
 textarea{
-    border: 1px solid #3480F1;
+    border: 1px solid purple;
     border-radius: 5px;
     background-color: #F2F1F5 !important;
     resize: none;
@@ -828,16 +826,13 @@ textarea{
     border-radius: 5px;
     background-color: #d9d9d9;
 }
-select{
-    background-color: red !important;
-    width: 100%;
-    /* height: 5rem !important; */
-    border: 1px solid #3480F1;
+.hear{
+    border: 1px solid purple;
     border-radius: 5px;
-    padding-left: 0;
+    padding-left: 1.2rem;
 }
 .twit-active{
-    background-color: #3480F1;
+    background-color: purple;
 }
  hr{
     color: black;
@@ -938,7 +933,7 @@ section .wrapper{
 .inputs input {
     width: 60px;
     height: 60px;
-    border: 1px solid #5858585d !important;
+    border: 1px solid purple !important;
 }
 
 input[type=number]::-webkit-inner-spin-button,

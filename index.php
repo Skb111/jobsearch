@@ -218,7 +218,7 @@
         <!--RANGE INDUSTRIES SECTION ENDS-->
 
         <!--PARTNERS SECTION STARTS-->
-        <section class="partner partner-section" id="partner">
+        <!-- <section class="partner partner-section" id="partner">
           <div class="container">
               <div class="row">
                   <div class="col-md-12">
@@ -229,7 +229,7 @@
                         <div class="col-md-3">
                           <div class=" border partner">
                             <!-- <img src="imgs1/black-square.png" class="img-fluid" alt="" srcset=""> -->
-                            <h3>LOADING...</h3>
+                            <!-- <h3>LOADING...</h3>
                           </div>
                         </div>
                         <div class="col-md-3">
@@ -238,16 +238,16 @@
                           </div>
                         </div>
                         <div class="col-md-3">
-                          <div class=" border partner">
+                          <div class=" border partner"> -->
                             <!-- <img src="imgs1/black-square.png" class="img-fluid" alt="" srcset=""> -->
-                            <h3>LOADING...</h3>
+                            <!-- <h3>LOADING...</h3>
                           </div>
                         </div>
                       </div>
                   </div>
               </div>
           </div>
-      </section>
+      </section> --> -->
         <!--PARTNERS SECTION ENDS-->
 
             <!--QUOTE SECTION STARTS-->

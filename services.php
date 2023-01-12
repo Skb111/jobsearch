@@ -78,6 +78,21 @@
          <h1 class="choose-header text-center text-capitalize">
            Services we offer 
          </h1>
+         <button class="accordion">Section 1</button>
+          <div class="panel">
+            <p>Lorem ipsum...</p>
+          </div>
+
+          <button class="accordion">Section 2</button>
+          <div class="panel">
+            <p>Lorem ipsum...</p>
+          </div>
+
+          <button class="accordion">Section 3</button>
+          <div class="panel">
+            <p>Lorem ipsum...</p>
+          </div>
+
            <div class="col-lg-6 mb-3 mt-3 text-center text-capitalize">
                <div class=" mb-lg-3">
                    <h3 class="choose-sub-header">Experience</h3>

@@ -42,7 +42,7 @@
             <a class="nav-link" href="services.php">Services</a>
           </li>
           <li class="nav-item ">
-            <a class="nav-link" href="contact.php">Contact Us</a>
+            <a class="nav-link active" href="contact.php">Contact Us</a>
           </li>
         </ul>
         <!-- <ul class="navbar-nav me-5">

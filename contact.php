@@ -213,7 +213,6 @@ crossorigin="anonymous">
 </script>
 <script src="./js/data.js"></script>   
 <script src="./js/script.js"></script>
-
-<script src="./admin/contact.js"></script>
+<script src="./js/index.js"></script>
 </body>
 </html>

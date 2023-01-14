@@ -218,7 +218,8 @@ integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/j
 integrity="sha384-7VPbUDkoPSGFnVtYi0QogXtr74QeVeeIs99Qfg5YCF+TidwNdjvaKZX19NZ/e6oz" 
 crossorigin="anonymous">
 </script>
-<script src="./js/data.js"></script>   
+<script src="./js/data.js"></script> 
+<script src="../js/index.js"></script>   
 <script src="./js/script.js"></script>
 </body>
 </html>

@@ -36,19 +36,21 @@ a{
 }
 .navbar ul li a{
     margin: 5px;
-    color: purple !important;
-    /* background-color: red; */
+    color: white !important;
+    background-color: purple;
     /* font-weight: 600; */
     font-family: 'Dm sans';
+    border-radius: 5px;
+    border: 1px solid purple;
 }
 .navbar ul li a:hover{
-    background-color: purple;
-    color: white !important;
+    background-color: white !important;
+    color: purple !important;
     border-radius: 5px;
 }
 .active{
-    background-color: purple !important;
-    color: white !important;
+    background-color: rgba(128, 0, 100, 0.329) !important;
+    border: 2px solid purple;
 }
 section{
     padding-top: 80px;
@@ -972,4 +974,3 @@ input[type=number]::-webkit-outer-spin-button {
     display: none;
     overflow: hidden;
   }
-

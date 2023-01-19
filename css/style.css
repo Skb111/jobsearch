@@ -327,12 +327,18 @@ section{
     font-family: 'Montserrat';
     font-weight: 800;
 }
-.round{
+.go{
+    background-color: purple !important;
+}
+/* .round{
     display: flex;
     margin: 5px auto;
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
+} */
+.divd{
+    display: flex !important;
 }
 /* .imgz{
     display: block;

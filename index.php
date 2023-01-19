@@ -64,6 +64,12 @@
                                  pariatur placeat nobis tempora tempore. 
                                 Quia illo a accusamus perferendis porro tempore veniam impedit vero totam.
                             </p>
+                         <form role="search" method="get" id="searchform" class="searchform" action="">
+                            <div class="input-group ">
+                                  <input class="form-control"  type="text" value="" name="s" id="s" placeholder="Search for anything" />
+                                  <input class="btn go " type="submit" id="searchsubmit" value="Go" />
+                              </div>
+                          </form>
                     </div>
                 </div>
             </div>
@@ -77,38 +83,83 @@
          <div class="container">
             <div class="row">
               <h1 class="choose-header text-center">
-                Choose Our <br> Foreign Workers 
+                Choose From Our  <br>lists Of Career Choices 
               </h1>
-                <div class="col-lg-6 mb-3 mt-3 text-center text-capitalize">
+                <div class="col-lg-4 mb-3 mt-3 text-center text-capitalize">
                     <div class=" mb-lg-3">
-                        <h3 class="choose-sub-header">Experience</h3>
-                        <p class="p2">We are highly experienced, qualified and <br>
-                           hard-working in every are there are into.
+                        <h3 class="choose-sub-header">programming</h3>
+                        <p class="p2">
+                          A programming language is a system of notation for writing computer programs.
+                          Most programming languages are text-based formal languages, but they may also be graphical. 
+                          They are a kind of computer language.
+                          The description of a programming language is usually split into the two components
+                           of syntax (form) and semantics (meaning), which are usually defined by a formal language. 
+                           the C programming language is specified by an ISO Standard) while other languages 
+                           (such as Perl) have a dominant implementation that is treated as a reference. 
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-3 mt-3 text-center text-capitalize">
+                    <div class=" mb-lg-3">
+                        <h3 class="choose-sub-header">Engineering</h3>
+                        <p class="p2">Engineering is the use of scientific principles to design
+                           and build machines, structures, and other items, including bridges,
+                            tunnels, roads, vehicles, and buildings.[1] The discipline of engineering
+                             encompasses a broad range of more specialized fields of engineering, 
+                             each with a more specific emphasis on particular areas of applied mathematics,
+                           applied science, and types of application. See glossary of engineering...
                           </p>
                     </div>
                 </div>
-                <div class="col-lg-6 mb-3 mt-3 text-center text-capitalize">
+                <div class="col-lg-4 mb-3 mt-3 text-center text-capitalize">
                     <div class=" mb-lg-3">
-                        <h3 class="choose-sub-header">Loyalty</h3>
-                        <p class="p2">Loyal and committed to long-term <br> employment been morally upright in there <br> work.
+                        <h3 class="choose-sub-header">Chartered Accountancy</h3>
+                        <p class="p2">Chartered accountants were the first accountants to form a 
+                          professional accounting body, initially established in Scotland in 1854. 
+                          The Edinburgh Society of Accountants (1854), the Glasgow Institute of 
+                          Accountants and Actuaries (1854) and the Aberdeen Society of Accountants (1867) 
+                          were each granted a royal charter almost from their inception.[1] The title is
+                           an internationally recognised professional designation;
+                           the certified public accountant designation is generally equivalent to it...
                           </p>
                     </div>
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-6 mb-3 mt-3 text-center">
+                <div class="col-lg-4 mb-3 mt-3 text-center">
                     <div class=" mb-lg-3">
-                        <h3 class="choose-sub-header text-capitalize">Intergrated workforce</h3>
-                        <p class="p2">Our workers have successfully integrated into 
-                          the <br> Canadian workforce. Many apply for residency and <br> become permanent workers.
+                        <h3 class="choose-sub-header text-capitalize">Medicine</h3>
+                        <p class="p2">Medicine is also a key mention among the toughest courses in the world which 
+                          mainly requires patience, knowledge of medical care, a strong stomach and willing 
+                          altruistic nature. It is widely known that a good gesture helps people recover from a 
+                          dire situation. Nurses assist doctors, therapists, patients and their families. You need
+                           to have good GPAs in Biology, Chemistry, Maths, Psychology and other important subjects. 
+                           They need to have spontaneous effective skills to solve and prevent problems a patient faces. 
                           </p>
                     </div>
                 </div>
-                <div class="col-lg-6 mb-3 mt-3 text-center">
+                <div class="col-lg-4 mb-3 mt-3 text-center">
                     <div class=" mb-lg-3">
-                        <h3 class="choose-sub-header text-capitalize">communication</h3>
-                        <p class="p2">English is widely used or officially spoken
-                           in <br> all the countries where we recruit from.
+                        <h3 class="choose-sub-header text-capitalize">Finance</h3>
+                        <p class="p2">
+                          This sought-after area of study in the Commerce stream relates to every aspect of 
+                          monetary management and establishment. To build a promising career in Finance, one needs to have
+                          the analytic ability, unique funding methods, etc. as well as the knowledge of financial management,
+                          accounting, risk management, amongst others which makes it one of the toughest courses in the world.
+                          People explore various ways to invest their money and gain profit. 
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-3 mt-3 text-center">
+                    <div class=" mb-lg-3">
+                        <h3 class="choose-sub-header text-capitalize">Law</h3>
+                        <p class="p2">Law is a set of rules that are created and are enforceable by 
+                          social or governmental institutions to regulate behavior,[2] with its precise
+                           definition a matter of longstanding debate.It has been variously 
+                           described as a science and as the art of justice.State-enforced
+                            laws can be made by a group legislature or by a single legislator, resulting 
+                            in statutes; by the executive through decrees and regulations; or established 
+                            by judges through precedent, usually in common law jurisdictions. 
+                            court litigation...
                           </p>
                     </div>
                 </div>
@@ -119,41 +170,42 @@
         
         <!--LABOUR MARKETS SECTION STARTS-->
         <section class="labour labour-section" id="labour">
-          <div class="container text-dark round">
+          <div class="container text-dark">
               <div class="row">
                   <div class="col-12 ">
-                      <h1 class="labour-header text-center text-capitalize ">
-                        We have Excellent Knowledge of Foreign <br> Labour Markets 
-                      </h1>
-                     
-                  <div class="round">
-                      <div>
-                        
-                    <img src="./imgs1/img6.png" class="imgz" class="img-fluid" alt="" srcset="">
-              
-                    <!-- <div class="wrap-item"> -->
-                        <img src="./imgs1/img7.png" class="imgz" class="img-fluid" alt="" srcset="">
-                    <!-- </div> -->
-                    <!-- <div class="wrap-item"> -->
-                        <img src="./imgs1/img8.png" class="imgz" class="img-fluid" alt="" srcset="">
-                    <!-- </div> -->
-                      </div>
-                <div>
-                  
-                <!-- <div class="wrap-item"> -->
-                  <img src="./imgs1/tech.png" class="imgz" class="img-fluid" alt="" srcset="">
-                  <!-- </div> -->
-                  <!-- <div class="wrap-item"> -->
-                      <img src="./imgs1/img10.png" class="imgz" class="img-fluid" alt="" srcset="">
-                  <!-- </div>
-                  <div class="wrap-item"> -->
-                      <img src="./imgs1/img11.png" class="imgz" class="img-fluid" alt="" srcset="">
-                  <!-- </div> -->
-                </div>
+                      <h1 class="labour-header text-center text-capitalize mb-3">
+                        Varieties Of Career Paths </h1>
+                    <div class="divd">
+                        <div class="">
+                          <img src="./imgs1/tech.png" class="imgz" class="img-fluid" alt="" srcset="">
+                        </div>
+                        <div>
+                          <img src="./imgs1/tech.png" class="imgz" class="img-fluid" alt="" srcset="">
+                        </div>
+                        <div>
+                          <img src="./imgs1/tech.png" class="imgz" class="img-fluid" alt="" srcset="">
+                        </div>
+                        <div>
+                          <img src="./imgs1/tech.png" class="imgz" class="img-fluid" alt="" srcset="">
+                        </div>
+                    </div>      
+                    <div class="divd">
+                        <div class="">
+                          <img src="./imgs1/tech.png" class="imgz" class="img-fluid" alt="" srcset="">
+                        </div>
+                        <div>
+                          <img src="./imgs1/tech.png" class="imgz" class="img-fluid" alt="" srcset="">
+                        </div>
+                        <div>
+                          <img src="./imgs1/tech.png" class="imgz" class="img-fluid" alt="" srcset="">
+                        </div>
+                        <div>
+                          <img src="./imgs1/tech.png" class="imgz" class="img-fluid" alt="" srcset="">
+                        </div>
+                    </div>      
+                  </div>
               </div>
-                     </div>
-                    </div>
-             </div>
+          </div>
       </section>
         <!--LABOUR MARKETS SECTION ENDS-->
 

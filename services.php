@@ -33,16 +33,16 @@
           <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav mx-auto">
               <li class="nav-item">
-                <a class="nav-link" href="index.html">Home</a>
+                <a class="nav-link" href="index.php">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.html">About Us</a>
+                <a class="nav-link" href="about.php">About Us</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="services.html">Services</a>
+                <a class="nav-link active" aria-current="page" href="services.php">Services</a>
               </li>
               <li class="nav-item ">
-                <a class="nav-link" href="contact.html">Contact Us</a>
+                <a class="nav-link" href="contact.php">Contact Us</a>
               </li>
             </ul>
           </div>
@@ -77,7 +77,25 @@
        <div class="row">
          <h1 class="choose-header text-center text-capitalize">
            Services we offer 
+<<<<<<< HEAD:services.html
           </h1>
+=======
+         </h1>
+         <button class="accordion">Section 1</button>
+          <div class="panel">
+            <p>Lorem ipsum...</p>
+          </div>
+
+          <button class="accordion">Section 2</button>
+          <div class="panel">
+            <p>Lorem ipsum...</p>
+          </div>
+
+          <button class="accordion">Section 3</button>
+          <div class="panel">
+            <p>Lorem ipsum...</p>
+          </div>
+>>>>>>> c255bc3ffcdceb603a69cd6d4503a7bfeb3e895a:services.php
 
            <div class="col-lg-6 mb-3 mt-3 text-center text-capitalize">
                <div class=" mb-lg-3">

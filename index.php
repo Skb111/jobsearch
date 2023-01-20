@@ -33,16 +33,16 @@
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
               <ul class="navbar-nav mx-auto">
                 <li class="nav-item">
-                  <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                  <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="about.html">About Us</a>
+                  <a class="nav-link" href="about.php">About Us</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="services.html">Services</a>
+                  <a class="nav-link" href="services.php">Services</a>
                 </li>
                 <li class="nav-item ">
-                  <a class="nav-link" href="contact.html">Contact Us</a>
+                  <a class="nav-link" href="contact.php">Contact Us</a>
                 </li>
               </ul>
             </div>
@@ -97,6 +97,11 @@
                           They are a kind of computer language.
                           The description of a programming language is usually split into the two components
                            of syntax (form) and semantics (meaning), which are usually defined by a formal language. 
+<<<<<<< HEAD:index.html
+=======
+                           the C programming language is specified by an ISO Standard) while other languages 
+                           (such as Perl) have a dominant implementation that is treated as a reference. 
+>>>>>>> c255bc3ffcdceb603a69cd6d4503a7bfeb3e895a:index.php
                     </div>
                 </div>
                 <div class="col-lg-4 mb-3 mt-3 text-center text-capitalize">
@@ -104,7 +109,11 @@
                         <h3 class="choose-sub-header">Engineering</h3>
                         <p class="p2">Engineering is the use of scientific principles to design
                            and build machines, structures, and other items, including bridges,
+<<<<<<< HEAD:index.html
                             tunnels, roads, vehicles, and buildings. The discipline of engineering
+=======
+                            tunnels, roads, vehicles, and buildings.[1] The discipline of engineering
+>>>>>>> c255bc3ffcdceb603a69cd6d4503a7bfeb3e895a:index.php
                              encompasses a broad range of more specialized fields of engineering, 
                              each with a more specific emphasis on particular areas of applied mathematics,
                            applied science, and types of application. See glossary of engineering...
@@ -118,8 +127,14 @@
                           professional accounting body, initially established in Scotland in 1854. 
                           The Edinburgh Society of Accountants (1854), the Glasgow Institute of 
                           Accountants and Actuaries (1854) and the Aberdeen Society of Accountants (1867) 
+<<<<<<< HEAD:index.html
                           were each granted a royal charter almost from their inception. The title is
                            an internationally recognised professional designation...
+=======
+                          were each granted a royal charter almost from their inception.[1] The title is
+                           an internationally recognised professional designation;
+                           the certified public accountant designation is generally equivalent to it...
+>>>>>>> c255bc3ffcdceb603a69cd6d4503a7bfeb3e895a:index.php
                           </p>
                     </div>
                 </div>
@@ -132,7 +147,12 @@
                           mainly requires patience, knowledge of medical care, a strong stomach and willing 
                           altruistic nature. It is widely known that a good gesture helps people recover from a 
                           dire situation. Nurses assist doctors, therapists, patients and their families. You need
+<<<<<<< HEAD:index.html
                            to have good GPAs in Biology, Chemistry, Maths, Psychology and other important subjects...
+=======
+                           to have good GPAs in Biology, Chemistry, Maths, Psychology and other important subjects. 
+                           They need to have spontaneous effective skills to solve and prevent problems a patient faces. 
+>>>>>>> c255bc3ffcdceb603a69cd6d4503a7bfeb3e895a:index.php
                           </p>
                     </div>
                 </div>
@@ -143,18 +163,34 @@
                           This sought-after area of study in the Commerce stream relates to every aspect of 
                           monetary management and establishment. To build a promising career in Finance, one needs to have
                           the analytic ability, unique funding methods, etc. as well as the knowledge of financial management,
+<<<<<<< HEAD:index.html
                           accounting, risk management, amongst others which makes it one of the toughest courses in the world...
+=======
+                          accounting, risk management, amongst others which makes it one of the toughest courses in the world.
+                          People explore various ways to invest their money and gain profit. 
+                        </p>
+>>>>>>> c255bc3ffcdceb603a69cd6d4503a7bfeb3e895a:index.php
                     </div>
                 </div>
                 <div class="col-lg-4 mb-3 mt-3 text-center">
                     <div class=" mb-lg-3">
                         <h3 class="choose-sub-header text-capitalize">Law</h3>
                         <p class="p2">Law is a set of rules that are created and are enforceable by 
+<<<<<<< HEAD:index.html
                           social or governmental institutions to regulate behavior,with its precise
                            definition a matter of longstanding debate.It has been variously 
                            described as a science and as the art of justice.State-enforced
                             laws can be made by a group legislature or by a single legislator, resulting 
                             in statutes; by the executive through decrees and regulations... 
+=======
+                          social or governmental institutions to regulate behavior,[2] with its precise
+                           definition a matter of longstanding debate.It has been variously 
+                           described as a science and as the art of justice.State-enforced
+                            laws can be made by a group legislature or by a single legislator, resulting 
+                            in statutes; by the executive through decrees and regulations; or established 
+                            by judges through precedent, usually in common law jurisdictions. 
+                            court litigation...
+>>>>>>> c255bc3ffcdceb603a69cd6d4503a7bfeb3e895a:index.php
                           </p>
                     </div>
                 </div>
@@ -164,7 +200,11 @@
         <!--CHOOSE SECTION ENDS-->
         
         <!--LABOUR MARKETS SECTION STARTS-->
+<<<<<<< HEAD:index.html
         <!-- <section class="labour labour-section" id="labour">
+=======
+        <section class="labour labour-section" id="labour">
+>>>>>>> c255bc3ffcdceb603a69cd6d4503a7bfeb3e895a:index.php
           <div class="container text-dark">
               <div class="row">
                   <div class="col-12 ">
@@ -201,6 +241,7 @@
                   </div>
               </div>
           </div>
+<<<<<<< HEAD:index.html
       </section> -->
       <section class="range range-section" id="range">
         <div class="container  text-dark">
@@ -259,6 +300,9 @@
           </div>
         </div>
     </section>
+=======
+      </section>
+>>>>>>> c255bc3ffcdceb603a69cd6d4503a7bfeb3e895a:index.php
         <!--LABOUR MARKETS SECTION ENDS-->
 
         <!--RANGE INDUSTRIES SECTION STARTS 276 x 523-->
@@ -319,6 +363,42 @@
       </section>
         <!--RANGE INDUSTRIES SECTION ENDS-->
 
+<<<<<<< HEAD:index.html
+=======
+        <!--PARTNERS SECTION STARTS-->
+        <!-- <section class="partner partner-section" id="partner">
+          <div class="container">
+              <div class="row">
+                  <div class="col-md-12">
+                      <h1 class="partner-header text-capitalize text-center mb-4">
+                        trusted and supported by 
+                      </h1>
+                      <div class="row row-cols-2 col-md-12 me-2 align-items-center justify-content-center row-cols-lg-4 g-3 g-lg-12">
+                        <div class="col-md-3">
+                          <div class=" border partner">
+                            <!-- <img src="imgs1/black-square.png" class="img-fluid" alt="" srcset=""> -->
+                            <!-- <h3>LOADING...</h3>
+                          </div>
+                        </div>
+                        <div class="col-md-3">
+                          <div class=" border partner">
+                            <img src="imgs1/light-square.png" class="img-fluid" alt="" srcset="">
+                          </div>
+                        </div>
+                        <div class="col-md-3">
+                          <div class=" border partner"> -->
+                            <!-- <img src="imgs1/black-square.png" class="img-fluid" alt="" srcset=""> -->
+                            <!-- <h3>LOADING...</h3>
+                          </div>
+                        </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </section> --> -->
+        <!--PARTNERS SECTION ENDS-->
+
+>>>>>>> c255bc3ffcdceb603a69cd6d4503a7bfeb3e895a:index.php
             <!--QUOTE SECTION STARTS-->
             <section class="quote quote-section" id="quote">
             <div class="container-fluid text-white ">

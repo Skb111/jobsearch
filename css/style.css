@@ -48,7 +48,11 @@ a{
     border-radius: 5px;
 }
 .active{
+<<<<<<< HEAD
     background-color: var(--black) !important;
+=======
+    background-color: rgba(128, 0, 100, 0.329) !important;
+>>>>>>> c255bc3ffcdceb603a69cd6d4503a7bfeb3e895a
     border: 2px solid purple;
 }
 section{
@@ -329,11 +333,14 @@ section{
 }
 .go{
     background-color: purple !important;
+<<<<<<< HEAD
     color: white;
 }
 .go:hover{
     background-color: rgba(230, 19, 230, 0.644) !important;
     color: white;
+=======
+>>>>>>> c255bc3ffcdceb603a69cd6d4503a7bfeb3e895a
 }
 /* .round{
     display: flex;
@@ -984,4 +991,8 @@ input[type=number]::-webkit-outer-spin-button {
     background-color: white;
     display: none;
     overflow: hidden;
+<<<<<<< HEAD
   }
+=======
+  }
+>>>>>>> c255bc3ffcdceb603a69cd6d4503a7bfeb3e895a

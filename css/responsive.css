@@ -58,7 +58,7 @@
     
     .home{
         width: 100%;
-        background-image: url(../imgs1/img1.png);
+        background-image: url("https://picsum.photos/700/300?random=1");
         background-position: center;
         background-repeat: no-repeat;
         background-size:center;

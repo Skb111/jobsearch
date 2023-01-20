@@ -13,7 +13,6 @@
     --linear-gradient3: linear-gradient(-255deg, #102544 0%,   #1965D5 59.38%);
     --sub-btn: #102544;
     --paragraph-color:rgba(216, 216, 216, 1);
-
   }
 
 body{
@@ -36,15 +35,21 @@ a{
 }
 .navbar ul li a{
     margin: 5px;
-    color: purple !important;
-    /* background-color: red; */
+    color: white !important;
+    background-color: purple;
     /* font-weight: 600; */
     font-family: 'Dm sans';
+    border-radius: 5px;
+    border: 1px solid purple;
 }
 .navbar ul li a:hover{
-    background-color: purple;
-    color: white !important;
+    background-color: white !important;
+    color: purple !important;
     border-radius: 5px;
+}
+.active{
+    background-color: var(--black) !important;
+    border: 2px solid purple;
 }
 section{
     padding-top: 80px;
@@ -60,7 +65,7 @@ section{
     font-weight: 800;
     padding-top: 7rem;
     /* padding-left: 1rem; */
-    color: white;
+    color: purple;
 }
 .home-header > span{
     color: purple;
@@ -68,7 +73,7 @@ section{
 
 .home{
     width: 100%;
-    background-image: url(../imgs1/img27.png);
+    background-image: url("https://picsum.photos/700/300?random=2");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -197,7 +202,7 @@ section{
     min-height: 100vh;
     /* background-color: red; */
 }
-.jobs-btn{
+/* .jobs-btn{
     padding: .85rem 3rem !important;
     border-radius: 5px;
     margin-left: 10px;
@@ -210,9 +215,10 @@ section{
     background: white !important;
     color: #3480F1 !important; 
     cursor: pointer;
-}
+} */
 .contact-header{
     padding-top: 45px;
+    color: purple !important;
 }
 .cont-btn{
     padding: .85rem 4rem !important;
@@ -321,12 +327,23 @@ section{
     font-family: 'Montserrat';
     font-weight: 800;
 }
-.round{
+.go{
+    background-color: purple !important;
+    color: white;
+}
+.go:hover{
+    background-color: rgba(230, 19, 230, 0.644) !important;
+    color: white;
+}
+/* .round{
     display: flex;
     margin: 5px auto;
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
+} */
+.divd{
+    display: flex !important;
 }
 /* .imgz{
     display: block;
@@ -355,7 +372,7 @@ section{
 }
 .box{
     width: 250px;
-    margin: 0px 0px;
+    margin: 0px 10px;
     box-shadow: 0 0 20px 2px rgba(0, 0, 0, .1);
     transition: .85s;
     position: relative;
@@ -792,7 +809,7 @@ section{
 }
 .textarea1,
     input[type=text] {
-    border: 1px solid #3480F1 !important;
+    border: 1px solid purple !important;
     background-color: #F2F1F5;
 }
 select{
@@ -804,7 +821,7 @@ select{
     border: 5px;
 }
 textarea{
-    border: 1px solid #3480F1;
+    border: 1px solid purple;
     border-radius: 5px;
     background-color: #F2F1F5 !important;
     resize: none;
@@ -827,12 +844,12 @@ textarea{
     background-color: #d9d9d9;
 }
 .hear{
-    border: 1px solid #3480F1;
+    border: 1px solid purple;
     border-radius: 5px;
     padding-left: 1.2rem;
 }
 .twit-active{
-    background-color: #3480F1;
+    background-color: purple;
 }
  hr{
     color: black;
@@ -933,7 +950,7 @@ section .wrapper{
 .inputs input {
     width: 60px;
     height: 60px;
-    border: 1px solid #5858585d !important;
+    border: 1px solid purple !important;
 }
 
 input[type=number]::-webkit-inner-spin-button,
@@ -944,4 +961,27 @@ input[type=number]::-webkit-outer-spin-button {
     margin: 0
 }
 
-
+.accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+  }
+  
+  /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+  .active, .accordion:hover {
+    background-color: #ccc;
+  }
+  
+  /* Style the accordion panel. Note: hidden by default */
+  .panel {
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+    overflow: hidden;
+  }

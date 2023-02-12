@@ -39,12 +39,16 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 ">
-                        <h6 class="home-header text-align-center justify-content-center">
-                            <!-- Get the <span> best</span> <br> <span>course </span>options <br> with no stress -->
-                              Welcome to CareerOptions😊 We are thrilled to have you here. Browse our site to learn more about your courses,
-                              and career opportunities.
-                        </h6>
-                         <form method="POST" id="searchform" name="myForm" onsubmit="return validateForm()" class="searchform" action="search.php">
+                        <h1 class="home-header text-align-center justify-content-center">
+                            Get the <span> best</span> <br> <span>course </span>options <br> with no stress
+                        </h1>
+                            <p class="p1 text-align-center justify-content-center">
+                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+                                Exercitationem sed consequatur explicabo totam praesentium
+                                 pariatur placeat nobis tempora tempore. 
+                                Quia illo a accusamus perferendis porro tempore veniam impedit vero totam.
+                            </p>
+                         <form role="search" method="get" id="searchform" class="searchform" action="">
                             <div class="input-group ">
                                   <input class="form-control"  type="text" value="" name="search" id="s" placeholder="Search for anything" />
                                   <input class="btn go " type="submit" name="submit" id="searchsubmit" value="Go" />
@@ -73,6 +77,8 @@
                           They are a kind of computer language.
                           The description of a programming language is usually split into the two components
                            of syntax (form) and semantics (meaning), which are usually defined by a formal language. 
+                           the C programming language is specified by an ISO Standard) while other languages 
+                           (such as Perl) have a dominant implementation that is treated as a reference. 
                     </div>
                 </div>
                 <div class="col-lg-4 mb-3 mt-3 text-center text-capitalize">
@@ -80,7 +86,7 @@
                         <h3 class="choose-sub-header">Engineering</h3>
                         <p class="p2">Engineering is the use of scientific principles to design
                            and build machines, structures, and other items, including bridges,
-                            tunnels, roads, vehicles, and buildings. The discipline of engineering
+                            tunnels, roads, vehicles, and buildings.[1] The discipline of engineering
                              encompasses a broad range of more specialized fields of engineering, 
                              each with a more specific emphasis on particular areas of applied mathematics,
                            applied science, and types of application. See glossary of engineering...
@@ -94,8 +100,9 @@
                           professional accounting body, initially established in Scotland in 1854. 
                           The Edinburgh Society of Accountants (1854), the Glasgow Institute of 
                           Accountants and Actuaries (1854) and the Aberdeen Society of Accountants (1867) 
-                          were each granted a royal charter almost from their inception. The title is
-                           an internationally recognised professional designation...
+                          were each granted a royal charter almost from their inception.[1] The title is
+                           an internationally recognised professional designation;
+                           the certified public accountant designation is generally equivalent to it...
                           </p>
                     </div>
                 </div>
@@ -108,7 +115,8 @@
                           mainly requires patience, knowledge of medical care, a strong stomach and willing 
                           altruistic nature. It is widely known that a good gesture helps people recover from a 
                           dire situation. Nurses assist doctors, therapists, patients and their families. You need
-                           to have good GPAs in Biology, Chemistry, Maths, Psychology and other important subjects...
+                           to have good GPAs in Biology, Chemistry, Maths, Psychology and other important subjects. 
+                           They need to have spontaneous effective skills to solve and prevent problems a patient faces. 
                           </p>
                     </div>
                 </div>
@@ -119,18 +127,22 @@
                           This sought-after area of study in the Commerce stream relates to every aspect of 
                           monetary management and establishment. To build a promising career in Finance, one needs to have
                           the analytic ability, unique funding methods, etc. as well as the knowledge of financial management,
-                          accounting, risk management, amongst others which makes it one of the toughest courses in the world...
+                          accounting, risk management, amongst others which makes it one of the toughest courses in the world.
+                          People explore various ways to invest their money and gain profit. 
+                        </p>
                     </div>
                 </div>
                 <div class="col-lg-4 mb-3 mt-3 text-center">
                     <div class=" mb-lg-3">
                         <h3 class="choose-sub-header text-capitalize">Law</h3>
                         <p class="p2">Law is a set of rules that are created and are enforceable by 
-                          social or governmental institutions to regulate behavior,with its precise
+                          social or governmental institutions to regulate behavior,[2] with its precise
                            definition a matter of longstanding debate.It has been variously 
                            described as a science and as the art of justice.State-enforced
                             laws can be made by a group legislature or by a single legislator, resulting 
-                            in statutes; by the executive through decrees and regulations... 
+                            in statutes; by the executive through decrees and regulations; or established 
+                            by judges through precedent, usually in common law jurisdictions. 
+                            court litigation...
                           </p>
                     </div>
                 </div>
@@ -138,67 +150,51 @@
           </div>
       </section>
         <!--CHOOSE SECTION ENDS-->
-
-      <section class="range range-section" id="range">
-        <div class="container  text-dark">
-            <div class="row">
-                <div class="col-12">
-                    <h1 class="range-header text-capitalize text-center">
-                      Career opportunities
-                    </h1>
-                    <p class="p3 text-center text-dark text-capitalize">
-                     Your future is in your hands,it's yours to determine 😊
-                    </p>
-                    <div class="range-img">
-                      <div class="box">
-                        <img src="./imgs1/imgxii.jpg" class="img-fluid" alt="" srcset="">
-                        <h5 class="bottom-text text-capitalize text-dark bg-light">Data analytics</h5>
-                      </div>
-                      <div class="box">
-                        <img src="./imgs1/img13.png" class="img-fluid" alt="" srcset="">
-                        <h5 class="bottom-text text-capitalize">Civil Engineering</h5>
-                      </div>
-                      <div class="box">
-                        <img src="./imgs1/doctor1 - Copy.jpg" class="img-fluid" alt="" srcset="">
-                        <h5 class="bottom-text">Health Care</h5>
-                      </div>
-                      <div class="box">
-                        <img src="./imgs1/biologist - Copy.jpg" class="img-fluid" alt="" srcset="">
-                        <h5 class="bottom-text text-capitalize text-dark bg-light">Botany</h5>
-                      </div>
-                    </div>
-                  
-                </div>
-            </div>
-            <div class="row">
-              <div class="col-12">
-                  <div class="range-img">
-                    <div class="box">
-                      <img src="./imgs1/imgx3.jpg" class="img-fluid" alt="" srcset=""> 
-                      <h5 class="bottom-text text-dark bg-light">Stock Exchange</h5> 
-                    </div>
-                    <div class="box">
-                      <img src="./imgs1/tech.png" class="img-fluid" alt="" srcset="">
-                      <h5 class="bottom-text text-capitalize">Tech Expert</h5>
-                    </div>
-                    <div class="box">
-                      <img src="./imgs1/doctor - Copy.jpg" class="img-fluid" alt="" srcset="">
-                      <h5 class="bottom-text text-capitalize text-dark bg-light">Doctors</h5>
-                    </div>
-                    <div class="box">
-                      <img src="./imgs1/imgx2.jpg" class="img-fluid" alt="" srcset="">
-                      <h5 class="bottom-text text-capitalize">Banking</h5>
-                    </div>
+        
+        <!--LABOUR MARKETS SECTION STARTS-->
+        <section class="labour labour-section" id="labour">
+          <div class="container text-dark">
+              <div class="row">
+                  <div class="col-12 ">
+                      <h1 class="labour-header text-center text-capitalize mb-3">
+                        Varieties Of Career Paths </h1>
+                    <div class="divd">
+                        <div class="">
+                          <img src="./imgs1/tech.png" class="imgz" class="img-fluid" alt="" srcset="">
+                        </div>
+                        <div>
+                          <img src="./imgs1/tech.png" class="imgz" class="img-fluid" alt="" srcset="">
+                        </div>
+                        <div>
+                          <img src="./imgs1/tech.png" class="imgz" class="img-fluid" alt="" srcset="">
+                        </div>
+                        <div>
+                          <img src="./imgs1/tech.png" class="imgz" class="img-fluid" alt="" srcset="">
+                        </div>
+                    </div>      
+                    <div class="divd">
+                        <div class="">
+                          <img src="./imgs1/tech.png" class="imgz" class="img-fluid" alt="" srcset="">
+                        </div>
+                        <div>
+                          <img src="./imgs1/tech.png" class="imgz" class="img-fluid" alt="" srcset="">
+                        </div>
+                        <div>
+                          <img src="./imgs1/tech.png" class="imgz" class="img-fluid" alt="" srcset="">
+                        </div>
+                        <div>
+                          <img src="./imgs1/tech.png" class="imgz" class="img-fluid" alt="" srcset="">
+                        </div>
+                    </div>      
                   </div>
-                
               </div>
           </div>
-        </div>
       </section>
+>>>>>>> c255bc3ffcdceb603a69cd6d4503a7bfeb3e895a:index.php
         <!--LABOUR MARKETS SECTION ENDS-->
 
-        <!--RANGE INDUSTRIES SECTION STARTS 276 x 523-->
-      <section class="range range-section" id="range">
+        <!--RANGE INDUSTRIES SECTION STARTS-->
+        <section class="range range-section" id="range">
           <div class="container  text-dark">
               <div class="row">
                   <div class="col-12">
@@ -206,20 +202,25 @@
                       Varieties Of Career Paths 
                     </h1>
                       <p class="p3 text-center text-dark text-capitalize">
-                        Take what you like as a course of study and you'll never have the feeling that you're working 😊😊😊
+                        our goal Is to match the right candidate to the right job, in order to achieve this goal 
+                        we apply rigorous selection process to recruit candidates for various jobs.
                       </p>
                       <div class="range-img">
                         <div class="box">
-                          <img src="./imgs1/imgg3 - Copy.jpg" class="img-fluid" alt="" srcset="">
+                          <img src="./imgs1/military.png" class="img-fluid" alt="" srcset="">
+                          <h5 class="bottom-text text-capitalize">Military</h5>
                         </div>
                         <div class="box">
-                          <img src="./imgs1/teacher1 - Copy.jpg" class="img-fluid" alt="" srcset="">
+                          <img src="./imgs1/img13.png" class="img-fluid" alt="" srcset="">
+                          <h5 class="bottom-text text-capitalize">Construction</h5>
                         </div>
                         <div class="box">
-                          <img src="./imgs1/img28 - Copy.png" class="img-fluid" alt="" srcset="">
+                          <img src="./imgs1/health.png" class="img-fluid" alt="" srcset="">
+                          <h5 class="bottom-text">Hospitality</h5>
                         </div>
                         <div class="box">
-                          <img src="./imgs1/lab - Copy.jpg" class="img-fluid" alt="" srcset="">
+                          <img src="./imgs1/img16.png" class="img-fluid" alt="" srcset="">
+                          <h5 class="bottom-text text-capitalize">Agriculture</h5>
                         </div>
                       </div>
                     
@@ -227,20 +228,24 @@
               </div>
               <div class="row">
                 <div class="col-12">
-                  <div class="range-img">
-                    <div class="box">
-                      <img src="./imgs1/imgg.jpg" class="img-fluid" alt="" srcset="">
+                    <div class="range-img">
+                      <div class="box">
+                        <img src="./imgs1/img17.png" class="img-fluid" alt="" srcset=""> 
+                        <h5 class="bottom-text">Automotives</h5> 
+                      </div>
+                      <div class="box">
+                        <img src="./imgs1/img18.png" class="img-fluid" alt="" srcset="">
+                        <h5 class="bottom-text text-capitalize">Warehousing</h5>
+                      </div>
+                      <div class="box">
+                        <img src="./imgs1/img19.png" class="img-fluid" alt="" srcset="">
+                        <h5 class="bottom-text text-capitalize">Food Processing</h5>
+                      </div>
+                      <div class="box">
+                        <img src="./imgs1/img20.png" class="img-fluid" alt="" srcset="">
+                        <h5 class="bottom-text text-capitalize">Cleaning</h5>
+                      </div>
                     </div>
-                    <div class="box">
-                      <img src="./imgs1/engineers - Copy.jpg" class="img-fluid" alt="" srcset="">
-                    </div>
-                    <div class="box">
-                      <img src="./imgs1/botanist - Copy.jpg" class="img-fluid" alt="" srcset="">
-                    </div>
-                    <div class="box">
-                      <img src="./imgs1/imgx - Copy.jpg" class="img-fluid" alt="" srcset="">
-                    </div>
-                  </div>
                   
                 </div>
             </div>
@@ -248,6 +253,40 @@
       </section>
         <!--RANGE INDUSTRIES SECTION ENDS-->
 
+        <!--PARTNERS SECTION STARTS-->
+        <!-- <section class="partner partner-section" id="partner">
+          <div class="container">
+              <div class="row">
+                  <div class="col-md-12">
+                      <h1 class="partner-header text-capitalize text-center mb-4">
+                        trusted and supported by 
+                      </h1>
+                      <div class="row row-cols-2 col-md-12 me-2 align-items-center justify-content-center row-cols-lg-4 g-3 g-lg-12">
+                        <div class="col-md-3">
+                          <div class=" border partner">
+                            <!-- <img src="imgs1/black-square.png" class="img-fluid" alt="" srcset=""> -->
+                            <!-- <h3>LOADING...</h3>
+                          </div>
+                        </div>
+                        <div class="col-md-3">
+                          <div class=" border partner">
+                            <img src="imgs1/light-square.png" class="img-fluid" alt="" srcset="">
+                          </div>
+                        </div>
+                        <div class="col-md-3">
+                          <div class=" border partner"> -->
+                            <!-- <img src="imgs1/black-square.png" class="img-fluid" alt="" srcset=""> -->
+                            <!-- <h3>LOADING...</h3>
+                          </div>
+                        </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </section> --> -->
+        <!--PARTNERS SECTION ENDS-->
+
+>>>>>>> c255bc3ffcdceb603a69cd6d4503a7bfeb3e895a:index.php
             <!--QUOTE SECTION STARTS-->
       <section class="quote quote-section" id="quote">
             <div class="container-fluid text-white ">
@@ -256,8 +295,8 @@
                         <div class="card text-center border-0">
                         <div class="card-body quote2 py-5 border-0">
                             <h3 class="card-title card-title1 text-capitalize ">what are you waiting for?</h3>
-                            <p class="card-text text-white p4">we value your feedback and are always here to help!</p>
-                            <a href="contact.php" class="req-btn py-3">Request a quote</a>
+                            <p class="card-text text-white p4">intersource is ready to help you find the workers your company needs!</p>
+                            <a href="#" class="req-btn py-3">Request a quote</a>
                         </div>
                         </div>
                     </div>
@@ -266,45 +305,84 @@
       </section>
             <!--QUOTE SECTION ENDS-->
 
-               <!--FOOTER SECTION STARTS-->
-      <section class="footer footer-section" id="footer">
+            <!--FOOTER SECTION STARTS-->
+            <section class="footer footer-section" id="footer">
             <footer class="site-footer">
                 <div class="container">
-                  <div class="row">  
-                <hr class="mb-2 col mx-5">  
-            </div>
-            <div class="row align-items-center">
-              <div class="col-md-7 col-lg-6">
-                <p>
-                  Copyright &copy; 2023 All rights reserved by:
-                  <a href="#" style="text-align:none ;">
-                    <strong class="text-warning">kiki</strong>
-                  </a>
-                </p>
-              </div>
-              <div class="col-md-5 col-lg-6">
-                <div class="text-center text-md-right">
-                  <ul class="list-unstyled list-inline">
-                    <li class="list-inline-item">
-                      <a href="https://web.facebook.com/kiki.joseph.02?mibextid=LQQJ4d&_rdc=1&_rdr" class="btn-floating btn-sm text-dark" ><i class="fab fa-facebook "></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                      <a href="https://instagram.com/kix_of_lasu?igshid=NTdlMDg3MTY=" class="btn-floating btn-sm text-dark" ><i class="fab fa-instagram"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                      <a href="https://twitter.com/KixUnbothered" class="btn-floating btn-sm text-dark" ><i class="fab fa-twitter"></i></a>
-                    </li>
-                    <li class="list-inline-item">
-                      <a href="http://wa.me/2347066464614" class="btn-floating btn-sm text-dark" ><i class="fab fa-whatsapp"></i></a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-          </footer>
-      </section>
-                <!--FOOTER SECTION ENDS-->
+                    <div class="row">
+                    <div class="col-lg-4 py-4">
+                        <!-- <img src="./imgs1/logo2.png" alt="" srcset=""> -->
+                        <p class="p5"> 
+                            At Intersource Global Inc., we apply the most highly 
+                            developed and advanced methodologies that strive and
+                            recruit qualified candidates that meet the staffing
+                            need of companies.
+                            </p>
+                        </div>
+                            <div class="col-lg-4 mb-2">
+                                <ul class="list-unstyled footer-link ">
+                                <li class="d-flex ">
+                                    <span class="me-3 ">Privacy & Terms</span><span class="text-dark">Help & Support</span>
+                                </li>
+                                <li class="d-flex">
+                                    <span class="me-5">Feedbacks</span> <span class="text-dark">Feedbacks</span>
+                                </li>
+                                <li class="d-flex">
+                                    <span class="me-5">Contact Us</span><span class="text-dark">Contact Us</span>
+                                </li>
+                                </ul>
+                            </div>
+                            
+                            <div class="col-lg-4 mb-2 py-5">
+                                <p>
+                                Subscribe to our newsletter for more info.
+                                </p>
+                                <form action="" >
+                                <input type="search" class="form-control form-control3 mb-2" placeholder="Enter Email" aria-label="Search" aria-describedby="search-addon" />
+                                        <span class=" border-0" id="search-addon">
+                                        <!-- <button type="submit" class="btn ">search</button> -->
+                                        <button class=" subscribe-btn btn-block py-3"  type="submit">Subscribe</button>
+                                        </span>
+                                </form>
+                                    
+                            </div>
+                                <hr class="mb-2 col mx-5">  
+                            </div>
+                            <div class="row align-items-center">
+                            <div class="col-md-7 col-lg-6">
+                                <p>
+                                Copyright &copy; 2022 All rights reserved by:
+                                <a href="#" style="text-align:none ;">
+                                    <strong class="text-warning">skb</strong>
+                                </a>
+                                </p>
+                            </div>
+                            <div class="col-md-5 col-lg-6">
+                                <div class="text-center text-md-right">
+                                <ul class="list-unstyled list-inline">
+                                    <li class="list-inline-item">
+                                    <a href="#" class="btn-floating btn-sm text-dark" ><i class="fab fa-facebook "></i></a>
+                                    </li>
+                                    <li class="list-inline-item">
+                                    <a href="#" class="btn-floating btn-sm text-dark" ><i class="fab fa-instagram"></i></a>
+                                    </li>
+                                    <li class="list-inline-item">
+                                    <a href="#" class="btn-floating btn-sm text-dark" ><i class="fab fa-twitter"></i></a>
+                                    </li>
+                                    <li class="list-inline-item">
+                                    <a href="#" class="btn-floating btn-sm text-dark" ><i class="fab fa-whatsapp"></i></a>
+                                    </li>
+                                    <li class="list-inline-item">
+                                    <a href="#" class="btn-floating btn-sm text-dark" ><i class="fab fa-youtube"></i></a>
+                                    </li>
+                                </ul>
+                                </div>
+                            </div>
+                            </div>
+                        </div>
+                        </footer>
+                </section>
+            <!--FOOTER SECTION ENDS-->
 
 
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" 

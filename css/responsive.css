@@ -65,7 +65,11 @@
     
     .home{
         width: 100%;
+<<<<<<< HEAD
         background-image: url("../imgs1/bg3.png");
+=======
+        background-image: url("https://picsum.photos/700/300?random=1");
+>>>>>>> 6d19c801308a229e1ca5f44d26971731e923d6eb
         background-position: center;
         background-repeat: no-repeat;
         background-size:center;
